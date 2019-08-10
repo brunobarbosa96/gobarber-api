@@ -9,7 +9,10 @@ export default {
             crypto.randomBytes(16, (err, res) => {
                 if (err) return cb();
 
-                return cb(null, res.toString("hex") + file.originalname);
+                return cb(
+                    null,
+                    res.toString("hex") + extname(file.originalname)
+                );
             });
         }
     })
