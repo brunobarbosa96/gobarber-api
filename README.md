@@ -124,3 +124,6 @@ lib para ajudar na validação de tipos, tamanhos e formatos das entradas
 
 aula 1
 fazendo upload de arquivos com multer
+
+aula 2
+vinculando avatar ao usuário usando o migration para alteração de tabela e incluindo novo campo de foreignKey.
