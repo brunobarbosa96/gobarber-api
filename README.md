@@ -130,3 +130,6 @@ vinculando avatar ao usuário usando o migration para alteração de tabela e in
 
 aula 3
 criando listagem de servidores
+configurando servidor para servir arquivos estaticos
+configurando model para retornar objetos de relacionamentos.
+(erro ao usar alias "as" pesquisar para resolver)
