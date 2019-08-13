@@ -127,3 +127,6 @@ fazendo upload de arquivos com multer
 
 aula 2
 vinculando avatar ao usuário usando o migration para alteração de tabela e incluindo novo campo de foreignKey.
+
+aula 3
+criando listagem de servidores
