@@ -9,8 +9,7 @@ class ProviderController {
             include: [
                 {
                     model: File,
-                    // as: "avatar", // TODO resolver problema do alias
-
+                    // as: "avatar", TODO não funcionou
                     attributes: ["name", "path", "url"]
                 }
             ]

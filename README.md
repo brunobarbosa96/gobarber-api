@@ -133,3 +133,6 @@ criando listagem de servidores
 configurando servidor para servir arquivos estaticos
 configurando model para retornar objetos de relacionamentos.
 (erro ao usar alias "as" pesquisar para resolver)
+
+aula 4
+fazendo migration e mapeando tabela de agendamento.
