@@ -138,3 +138,4 @@ aula 4
 fazendo migration e mapeando tabela de agendamento.
 
 aula 5
+criando controller de appintments com validação se o usuario é um provider.
