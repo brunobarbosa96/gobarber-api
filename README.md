@@ -136,3 +136,5 @@ configurando model para retornar objetos de relacionamentos.
 
 aula 4
 fazendo migration e mapeando tabela de agendamento.
+
+aula 5
