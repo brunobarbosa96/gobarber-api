@@ -143,3 +143,6 @@ criando controller de appintments com validação se o usuario é um provider.
 aula 6
 desenvolvimento de regras de negócio
 trabalhando com datas usando date-fns@next
+
+aula 7
+listando agendamento de usuário
