@@ -139,3 +139,7 @@ fazendo migration e mapeando tabela de agendamento.
 
 aula 5
 criando controller de appintments com validação se o usuario é um provider.
+
+aula 6
+desenvolvimento de regras de negócio
+trabalhando com datas usando date-fns@next
