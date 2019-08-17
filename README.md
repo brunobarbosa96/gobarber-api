@@ -179,3 +179,11 @@ aula 15
 configurando lib para envio de email
 yrn add nodemailer
 configurando mailtrap para teste de envio de e-mail em ambiente dev
+
+aula 16
+configurando templates de e-mail
+usando template engine para criar templates de e-mail
+exemplo: handlebars.js
+
+instalar express-handlebars
+instalar nodemailer-express-handlebars
