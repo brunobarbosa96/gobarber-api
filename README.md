@@ -2,7 +2,7 @@
 
 Curso de node.js da rocketseat.
 
-# MODULO 1
+## MODULO 1
 
 aula 1
 instalação do node
@@ -38,7 +38,7 @@ aplicando middlewares
 aula 11
 dicas debug
 
-# MODULO 2
+## MODULO 2
 
 aula 1
 iniciando o projeto e ensinando como fazer uma arquitetura com responsabilidades separadas preparando para testes.
@@ -124,7 +124,7 @@ validando dados de entrada
 yarn add yup
 lib para ajudar na validação de tipos, tamanhos e formatos das entradas
 
-# MODULO 3
+## MODULO 3
 
 aula 1
 fazendo upload de arquivos com multer
