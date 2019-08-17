@@ -191,5 +191,3 @@ exemplo: handlebars.js
 
 instalar express-handlebars
 instalar nodemailer-express-handlebars
-
-> > > > > > > stage
