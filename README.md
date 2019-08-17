@@ -176,3 +176,6 @@ aula 14
 criando cancelament do agnedamento
 
 aula 15
+configurando lib para envio de email
+yrn add nodemailer
+configurando mailtrap para teste de envio de e-mail em ambiente dev
