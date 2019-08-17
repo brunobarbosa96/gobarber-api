@@ -146,3 +146,33 @@ trabalhando com datas usando date-fns@next
 
 aula 7
 listando agendamento de usuário
+
+aula 8
+aplicando paginação na listagem de agendamentos
+
+aula 9
+listando agendamento do prestador e mostrando como fazer tratamento de datas para não cair no timezone
+
+aula 10
+criando novo docker para conectar no mongo db com o comando:
+doker run --name mongobarber -p 27017:27017 -d -t mongo
+dinstalar mongoose no projeto
+yarn add mongoose
+
+docker ps para mostrar todos os containers que etão rodando e docker ps -a para mostrar todos
+
+aula 11
+configurando mongoose na aplicação para realizar as notificações
+
+baixar o mongodb compass comunity para visualizar os dados do mongo
+
+aula 12
+listando notifications por usuário listando do mongoose
+
+aula 13
+marcando notificação como lida utilizando re.params
+
+aula 14
+criando cancelament do agnedamento
+
+aula 15
