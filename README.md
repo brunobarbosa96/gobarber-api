@@ -191,3 +191,13 @@ exemplo: handlebars.js
 
 instalar express-handlebars
 instalar nodemailer-express-handlebars
+
+aula 17
+colocando envio de e-mail assincrono com filas
+usando redis
+
+instalar docker do redis
+docker run --name redisbarber -p 6379:6379 -d -t redis:alpine
+
+instalar o bee-queue
+yarn add bee-queue
