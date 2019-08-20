@@ -201,3 +201,13 @@ docker run --name redisbarber -p 6379:6379 -d -t redis:alpine
 
 instalar o bee-queue
 yarn add bee-queue
+
+aula 18
+tratando falhas no processamento da fila
+entrar no github da beequeue para olhar eventos
+
+aula 19
+validações de data usando date-fns para horários disponíveis
+
+aula 20
+adicionando campos virtuais para exibição mais fácil de horários disponíveis
