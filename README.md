@@ -211,3 +211,14 @@ validações de data usando date-fns para horários disponíveis
 
 aula 20
 adicionando campos virtuais para exibição mais fácil de horários disponíveis
+
+aula 21
+tratamento de exceção utilizando ferramenta de log
+entrar no site do sentry para realizar o cadastro e configuração de conta
+
+instalar o express-async-errors para resolver problema do async do sentry
+
+adicionar youch para criar exceptionHandler
+
+aula 22
+configurando variáveis de ambiente
